@@ -1,2 +1,11 @@
-# ScreenCat
-These are virtual pets(cats) that roam about your screen. You can also interact with them!
+# Screen Cat
+
+This is your onscreen pet.
+
+He roams around your screen by himself just like a real cat would do!
+
+You can interact with him too!
+
+## How to use?
+
+Just download the binary from the Releases
