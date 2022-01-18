@@ -11,4 +11,8 @@ You can interact with him too!
 
 ## How to use?
 
-Just download the binary from the Releases
+Download the repository as zip. Go to the src folder.
+
+    javac Main.java
+
+Ten run the run_back.bat
